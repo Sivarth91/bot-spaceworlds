@@ -107,4 +107,4 @@ async def cmd(ctx):
     await ctx.send("**Voici la liste des commandes** :\n\n**/cmd** : liste des commandes du bot.\n**/ip** : ip du serveur Minecraft.\n**/members** : nombre de membres sur le discord.\n**/clear + nombre** : supprimer des messages.\n**/mute @user** : mute quelqu'un.\n**/unmute @user** : unmute quelqu'un.\n**/kick @user** : kick quelqu'un.\n**/ban @user** : ban quelqu'un.\n**/unban @user** : unban quelqu'un.")
 
 
-bot.run("ODc0OTQ0MTIxMTkyNzE0MjUx.YROVNg.AwCAuRCCSAUKKjH-nzQC4BaSDPE")
+bot.run("token")
